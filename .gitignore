@@ -1,2 +1,6 @@
 data.txt
 .idea
+__pycache__/
+app.spec
+build/
+dist/
